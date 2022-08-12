@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "464829775735",
+    "project_id": "imageupload-f7ea4",
+    "storage_bucket": "imageupload-f7ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464829775735:android:ec410df343218516ec6b72",
+        "android_client_info": {
+          "package_name": "com.example.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464829775735-s9mkkfdpvhe74qtiju45vcq8hcdv322v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageupload",
+            "certificate_hash": "ae9d04fc8b38e2ff8fe9fdbf356b1e341596354d"
+          }
+        },
+        {
+          "client_id": "464829775735-9kc2amf52ch3v5unbj8rkdk3ksqpqopb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzpOmYERwYRM6xwH4XYhek-BuuWx-o2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464829775735-9kc2amf52ch3v5unbj8rkdk3ksqpqopb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
